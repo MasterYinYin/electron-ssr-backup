@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Electron-SSR在ubuntu18.04系统下的配置问题
+## PAC模式可用但全局模式不可用
 
-You can use the [editor on GitHub](https://github.com/MasterYinYin/electron-ssr-backup/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+经检查，原因如下：
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+首先，PAC模式和全局模式有不同的配置端口，在软件中，配置/选项设置中可查看。
+
+
+在PAC模式下
 
 ### Markdown
 
