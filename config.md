@@ -5,6 +5,7 @@
 
 首先，PAC模式和全局模式有不同的配置端口，在软件中，配置/选项设置中可查看。
 
+！[image1](https://github.com/MasterYinYin/electron-ssr-backup/blob/gh-pages/Image/img1.png)
 
 在PAC模式下
 
